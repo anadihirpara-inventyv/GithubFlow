@@ -1,1 +1,1 @@
-git beta file 2 initial
+git beta file 2 initialadded feature 2 
